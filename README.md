@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3R0Z3R0Z3R0Z3R0Z3R0Z3R0Z3R0Z3R0Z3R0Z3R0JmJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding AI GIF">
 </div>
 
----
-
 ## 🤖 Machine Learning Engineer | AI & Computer Vision Enthusiast
 
 I am a passionate **Machine Learning Engineer** with a Master’s Degree, dedicated to exploring the frontiers of Artificial Intelligence. My core interest lies in developing advanced **Deep Learning models**, wwith particular attention to **Computer Vision** applications, but I am also particularly interested in the world of **NLP**.
