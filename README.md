@@ -2,7 +2,7 @@
 
 ## 🤖 Machine Learning Engineer | AI & Computer Vision Enthusiast
 
-I am a passionate **Machine Learning Engineer** with a Master’s Degree, dedicated to exploring the frontiers of Artificial Intelligence. My core interest lies in developing advanced **Deep Learning models**, with a particular focus on **Computer Vision** applications.
+I am a passionate **Machine Learning Engineer** with a Master’s Degree, dedicated to exploring the frontiers of Artificial Intelligence. My core interest lies in developing advanced **Deep Learning models**, wwith particular attention to **Computer Vision** applications, but I am also particularly interested in the world of **NLP**.
 
 This repository serves as my personal creative hub where I showcase my journey, featuring both completed projects and ongoing experiments in the world of AI.
 
@@ -10,19 +10,29 @@ This repository serves as my personal creative hub where I showcase my journey, 
 
 ### 🚀 About Me
 - 🎓 **Education**: Master’s Degree in Data Science.
-- 🧠 **Focus**: Deep Learning, Neural Networks, and Image Processing.
+- 🧠 **Focus**: Deep Learning, Neural Networks, Image Processing, Time Series and NLP.
 - 🛠️ **Current Activity**: Refining computer vision architectures and exploring generative models.
 - ⚡ **Goal**: Bridging the gap between academic research and production-ready AI solutions.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-blue?style=for-the-badge&logo=ultralytics&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+#### 🔬 AI Ecosystem & Deployment
+![YOLO](https://img.shields.io/badge/YOLO-v8/v9/v10/v11-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![timm](https://img.shields.io/badge/timm-PyTorch--Image--Models-blueviolet?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
 
 ---
 
