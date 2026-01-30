@@ -1,4 +1,4 @@
-# Hi there, I'm Andrea D'Amicis! 👋
+# Hi there, I'm Andrea! 👋
 
 ## 🤖 Machine Learning Engineer | AI & Computer Vision Enthusiast
 
@@ -9,7 +9,7 @@ This repository serves as my personal creative hub where I showcase my journey, 
 ---
 
 ### 🚀 About Me
-- 🎓 **Education**: Master’s Degree in a technical field (Engineering/CS).
+- 🎓 **Education**: Master’s Degree in Data Science.
 - 🧠 **Focus**: Deep Learning, Neural Networks, and Image Processing.
 - 🛠️ **Current Activity**: Refining computer vision architectures and exploring generative models.
 - ⚡ **Goal**: Bridging the gap between academic research and production-ready AI solutions.
@@ -35,8 +35,8 @@ This repository serves as my personal creative hub where I showcase my journey, 
 ### 📫 Connect with me
 Let's talk about AI, Computer Vision, or potential collaborations!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea_damicis/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea.damicis2001@gmail.com)
 
 ---
 
