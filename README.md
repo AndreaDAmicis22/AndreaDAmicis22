@@ -50,10 +50,13 @@ This repository serves as my personal creative hub where I showcase my journey, 
 
 ---
 
-### 📊 GitHub Stats
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaDAmicis22&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaDAmicis22&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndreaDAmicis22&theme=radical)
+### 🏆 GitHub Trophies
+[![](https://github-profile-trophy.vercel.app/?username=AndreaDAmicis22&theme=radical&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📈 Activity Graph
+![Andrea's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreaDAmicis22&theme=react-dark)
 
 ---
 
