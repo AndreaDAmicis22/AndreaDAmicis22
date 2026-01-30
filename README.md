@@ -63,7 +63,7 @@ This repository serves as my personal creative hub where I showcase my journey, 
 ### 📫 Connect with me
 Let's talk about AI, Computer Vision, or potential collaborations!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea_damicis/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-d-amicis/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea.damicis2001@gmail.com)
 
 
