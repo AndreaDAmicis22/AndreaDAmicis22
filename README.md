@@ -53,6 +53,7 @@ This repository serves as my personal creative hub where I showcase my journey, 
 ### 📊 GitHub Stats
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaDAmicis22&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaDAmicis22&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndreaDAmicis22&theme=radical)
 
 ---
 
