@@ -51,7 +51,7 @@ This repository serves as my personal creative hub where I showcase my journey, 
 ---
 
 ### 🏆 GitHub Trophies
-[![] (https://github-profile-trophy.vercel.app/?username=AndreaDAmicis22&theme=juicyfresh&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://github-profile-trophy.vercel.app/?username=AndreaDAmicis22&theme=juicyfresh&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
