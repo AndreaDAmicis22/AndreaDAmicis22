@@ -23,20 +23,20 @@ This repository serves as my personal creative hub where I showcase my journey, 
 ### 🛠️ Tech Stack & Tools
 
 #### 🧠 Deep Learning & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/Ultralytics-blue?style=for-the-badge&logo=ultralytics&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-blueviolet?style=for-the-badge&logo=python&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-blue?style=for-the-badge&logo=ultralytics&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 #### 🔬 Data Science & Analytics
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/statsmodels-blue?style=for-the-badge&logo=python&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
 
 #### 🗄️ Databases & Infrastructure
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -47,6 +47,7 @@ This repository serves as my personal creative hub where I showcase my journey, 
 #### 🚀 Specialized Models
 ![YOLO](https://img.shields.io/badge/YOLO-v8/v9/v10/v11-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![timm](https://img.shields.io/badge/timm-PyTorch--Image--Models-blueviolet?style=flat-square)
+![ViT](https://img.shields.io/badge/Architecture-Vision--Transformer-FF6600?style=flat-square&logo=gitbook&logoColor=white)
 
 ---
 
