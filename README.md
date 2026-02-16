@@ -40,9 +40,9 @@ This repository serves as my personal creative hub where I showcase my journey, 
 
 #### 🗄️ Databases & Infrastructure
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-black?style=for-the-badge&logo=chroma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-black?style=for-the-badge&logo=chroma&logoColor=white)
 
 #### 🚀 Specialized Models
 ![YOLO](https://img.shields.io/badge/YOLO-v8/v9/v10/v11-00FFFF?style=flat-square&logo=yolo&logoColor=black)
